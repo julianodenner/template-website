@@ -9,9 +9,10 @@
   <ul>
     <li>HTML5</li>
     <li>CSS3</li>
-    <li>Bootstrap</li>
-    <li>jQuery</li>
-    <li>Font Awesome</li>
+    <li>Bootstrap 3.3.7</li>
+    <li>jQuery 3.1.0</li>
+    <li>Font Awesome 4.6.3</li>
     <li>Imagens de NegativeSpace</li>
+    <li>Logo de Freepik</li>
   </ul>
 </p>
