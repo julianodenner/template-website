@@ -1,0 +1,11 @@
+/* 
+    Created on : 16/09/2016
+    Author     : Juliano
+*/
+.navbar {
+    background-color: #fff;
+    border-color: #e6e6e6;
+}
+.navbar * {
+    color: #000 !important;
+}
